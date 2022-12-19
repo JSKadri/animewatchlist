@@ -1,4 +1,4 @@
 $(function(){ 
-    $("#header").load("/animewatchlist/header.html");  
-    $("#footer").load("/animewatchlist/footer.html");  
+    $("#header").load("/header.html");  
+    $("#footer").load("/footer.html");  
   }); 

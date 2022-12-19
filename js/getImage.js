@@ -1,5 +1,5 @@
 // Set Default Image Background
-var imgUrl = "/animewatchlist/images/default-bg.jpg";
+var imgUrl = "/images/default-bg.jpg";
 document.querySelector('.background').style.setProperty('--bgImage', "url('" + imgUrl + "')");
 
 var allText;
@@ -59,7 +59,7 @@ function readTextFile(file)
 }
 
 // read the contents of the text file and split it into an array of image URLs
-readTextFile("/animewatchlist/pythonScript/urls.txt");
+readTextFile("/pythonScript/urls.txt");
 
 var imageList = allText;
 const urlArray = grabLines(imageList);
