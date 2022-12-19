@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wallpaper - Zerochan Anime Image Board</title>
+<meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Zerochan has 158,472 Wallpaper anime images, and many more in its gallery. ">
+<meta name="og:title" content="Wallpaper - Zerochan Anime Image Board">
+<meta name="og:image" content="https://s1.zerochan.net/Wallpaper.600.3118945.jpg">
+<meta name="og:description" content="Zerochan has 158,472 Wallpaper anime images, and many more in its gallery. ">
+<meta name="og:type" content="website">
+<meta name="og:site" content="Zerochan Anime Image Board">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Wallpaper - Zerochan Anime Image Board">
+<meta name="twitter:description" content="Zerochan has 158,472 Wallpaper anime images, and many more in its gallery. ">
+<meta name="twitter:image" content="https://s1.zerochan.net/Wallpaper.600.3118945.jpg">
+<meta name="google-signin-client_id" content="280853676974-pfa7tcmm6lb529u5b5fkb5aeue4i8j0u.apps.googleusercontent.com">
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/Wallpaper?s=random&amp;xml" />
+<link rel="alternate" type="application/json" title="JSON" href="/Wallpaper?s=random&amp;json" />
+<link rel="canonical" href="https://www.zerochan.net/Wallpaper" />
+<link rel="amphtml" href="https://www.zerochan.net/Wallpaper?amp">
+<link href="https://www.zerochan.net/v2.css?69nice" type="text/css" rel="stylesheet" />
+<style type="text/css">
+#header, #body { background-image: url(https://s1.zerochan.net/header-18.jpg?3); }
+body { background-image: url(https://s1.zerochan.net/bg-18.jpg?3); }
+input[type=submit], input[type=button], button[type=submit], .pagination a { background: #a00; }
+.pagination a { position: relative; }
+/*
+.pagination a:before { content: ""; display: inline-block; position: absolute; width: 30px; height: 30px;
+  background: url(https://s1.zerochan.net/christmas-ornament1.png); background-size: contain; left: -10px; top: -10px; }
+.pagination a:after { content: ""; display: inline-block; position: absolute; width: 30px; height: 30px; transform: rotate(180deg);
+  background: url(https://s1.zerochan.net/christmas-ornament1.png); background-size: contain; right: -10px; bottom: -10px; }
+*/
+input[type=submit]:hover, input[type=button]:hover, button[type=submit]:hover, .pagination a:hover { background: #0a0; }
+
+/* h1, h2, #menu h2, #menu h2 *, input[type=submit], input[type=button], button[type=submit] { font-family: 'Mountains of Christmas', sans-serif; } */
+h1 { position: relative; padding-left: 75px; }
+h1 { color: #0a0; }
+h1 span { color: #f44; }
+h1:before { content: ''; background: url(https://s1.zerochan.net/christmas-ornament1.png) no-repeat; background-size: contain; left: -20px;
+  display: inline-block; top: -8px; position: absolute; width: 80px; height: 80px; z-index:3; }
+
+#menu h2 { position: relative; padding-right: 25px; color: #0a0; }
+#menu h2:before { content: ''; background: url(https://s1.zerochan.net/christmas-ornament2.png) no-repeat; background-size: contain; right: -20px;
+  display: inline-block; top: -8px; position: absolute; width: 40px; height: 40px; z-index:1; }
+
+#footer { position: relative; }
+#footer:before { content: ''; background: url(https://s1.zerochan.net/christmas-ornament1.png) no-repeat; background-size: contain; right: 0px;
+  transform: rotate(180deg); display: inline-block; top: -80px; position: absolute; width: 80px; height: 80px; }
+
+
+#socials img { width: 20px; opacity: .6; padding: 2px; }
+#socials img:hover { opacity: 1; }
+
+#character-sheet { background: rgba(128,128,128,.1); padding: 5px;  }
+#character-sheet dt { display: block; float: left; padding: 5px; width: 30%; font-weight: bold; line-height: 1.4em; }
+#character-sheet dd { display: block; padding: 5px; padding-left: 33%; min-height: 16px;
+	border-bottom: 1px solid rgba(128,128,128,.2); line-height: 1.4em; }
+
+.bb-thumbnail img { max-width: 120px; }
+
+#aliases li { display: list-item; border-radius: 0; }
+#aliases .visible { background: rgba(128,128,128,.1) }
+#aliases .language { background: rgba(0,255,0,.1) }
+#aliases span { cursor: pointer; display: block; padding: 5px; }
+#aliases span:hover { background: rgba(0,0,0,.1); }
+#aliases li { padding: 0; }
+#aliases li b { float: right; display: none; margin-left: -200px; z-index: 10; position: relative; background: #fff; }
+#aliases li:hover b { display: inline; }
+	</style>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3000346950361353"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+<div id="wrapper">
+<div id="header">
+<header><div>
+<a href="/"><img src="https://s1.zerochan.net/logo12.png" alt="zerochan"/></a>
+<ul>
+	<li><a href="/">Browse</a></li>
+	<li><a href="/upload">Upload</a></li>
+	<li><a href="/subscribed">Subscribed</a></li>
+	<li><a href="/login?ref=%2FWallpaper%3Fs%3Drandom">Login</a></li>
+	<li><a href="/register">Register</a></li>
+  <li><a href="/theme?theme=13&amp;url=%2FWallpaper%3Fs%3Drandom"><img src="https://s1.zerochan.net/icons/darkmode.png" style="width: 16px; position: relative; top: 4px; opacity: 0.5; "></a></li>
+</ul>
+</div>
+</header>
+<a href="/"><img src="https://static.zerochan.net/logo12.png" alt="zerochan"/></a>
+
+	<div id="leaderboard">
+      <script src="//ap.lijit.com/www/delivery/fpi.js?z=602748&width=728&height=90"></script>
+    </div>
+</div>
+<div id="skyscraper">
+<style>
+.ZEROCHAN_MOINSBD_SIDEBAR2 { width: 320px; height: 50px; }
+@media(min-width: 500px) { .ZEROCHAN_MOINSBD_SIDEBAR2 { width: 120px; height: 600px; } }
+@media(min-width: 800px) { .ZEROCHAN_MOINSBD_SIDEBAR2 { width: 160px; height: 600px; } }
+</style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3000346950361353" crossorigin="anonymous"></script>
+<!-- Zerochan_MOINSBD_Sidebar -->
+<ins class="adsbygoogle ZEROCHAN_MOINSBD_SIDEBAR2"
+     style="display:block"
+     data-ad-client="ca-pub-3000346950361353"
+     data-ad-slot="4073322903"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({overlays: {bottom: true}});
+</script></div>
+<div id="body">
+<form id="search" action="/search">
+<!--  <span id="social-buttons">
+  <a rel="nofollow" target="_blank" href="https://discord.gg/HkGgX6Qs3N"><img src="https://s1.zerochan.net/icons/discord2.png" alt="Discord"></a>
+  <a rel="nofollow" target="_blank" href="https://twitter.com/ZerochanAnime"><img src="https://s1.zerochan.net/icons/twitter.svg" alt="Twitter"></a>
+  <a rel="nofollow" target="_blank" href="https://www.pinterest.com/ZerochanBot/"><img src="https://s1.zerochan.net/icons/pinterest.svg" alt="Pinterest"></a>
+  </span>-->
+	<input type="text" id="q" name="q" size="40" tabindex="1" placeholder="Search..." value="Wallpaper" />
+	<input type="image" src="https://s1.zerochan.net/search.png" value="Search" />
+  <input type="reset" value="&#x2716;" />
+</form>
+<div id="content">
+<ul id="tabs">
+<li style="visibility: hidden; "><a>View</a></li></ul>
+<h1><span>Wallpaper</span> Images
+</h1>
+
+<p class="breadcrumbs"><a href="/">zerochan</a></p><p>158,472 anime images in gallery. </p><p><a class="browsing-options" href="#">Search within Wallpaper</a></p>
+<form id="search-within" action="/search" onsubmit="return combine()">
+	<div style="float: right; "><label>Filters</label>
+	<select id="browsing-switches">
+		<option value="normal">Normal Mode</option>
+		<option value="strict" >Strict Mode</option>
+		<option value="children" >List All Children</option>
+	</select></div>
+	<label>Search within Wallpaper</label>
+	<input type="text" id="tag2" size="40" value="" />
+	<input type="submit" class="inline" value="Search" />
+</form>
+<div style="text-align: center; clear: both; margin: 10px; ">
+<style>
+.Zerochan_MOINSBD_Top { width: 320px; height: 50px; }
+@media(min-width: 500px) { .Zerochan_MOINSBD_Top { width: 468px; height: 60px; } }
+@media(min-width: 800px) { .Zerochan_MOINSBD_Top { width: 728px; height: 200px; } }
+@media(min-width: 1300px) { .Zerochan_MOINSBD_End { width: auto; height: 220px; } }
+</style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3000346950361353" crossorigin="anonymous"></script>
+<!-- Zerochan_MOINSBD_Top -->
+<ins class="adsbygoogle Zerochan_MOINSBD_Top"
+     style="display:inline-block"
+     data-ad-client="ca-pub-3000346950361353"
+     data-ad-slot="3078685876"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({overlays: {bottom: true}});
+</script></div>
+<p id="browse-filters">
+<span style="float: right; position: relative; top: -3px; display: none;">
+	|
+	<a rel="nofollow" href="?s=random&amp;d=" class="active">all</a>
+	<a rel="nofollow" href="?s=random&amp;d=large" class="">large</a>
+	<a rel="nofollow" href="?s=random&amp;d=huge" class="">huge</a>
+	<a rel="nofollow" href="?s=random&amp;d=landscape" class="">landscape</a>
+	<a rel="nofollow" href="?s=random&amp;d=portrait" class="">portrait</a>
+	<a rel="nofollow" href="?s=random&amp;d=square" class="">square</a>
+	|
+	<a rel="nofollow" href="?s=random&amp;m=1" class="active"><img src="https://s1.zerochan.net/small.png" style="width: 16px; position: relative; top: 5px; "></a>
+	<a rel="nofollow" href="?s=random&amp;m=2" class=""><img src="https://s1.zerochan.net/medium.png" style="width: 16px; position: relative; top: 5px; "></a>
+</span><a id="open-filters" href="#" style="float: right; position: relative; top: -1px; display: inline-block; background: url(https://s1.zerochan.net/filters.png); background-size: contain; width: 8px; height: 8px; opacity: .6; "></a>
+	Sort:
+	<a rel="nofollow" href="?s=id" class="">Recent</a>
+	<a rel="nofollow" href="?s=fav" class="">Popular</a>
+	&middot; <a rel="nofollow" href="?s=random" class="active">Random</a>
+</p>
+<ul id="thumbs2" class="small-thumbs">
+<li class="compact   ">
+	<div style="display: inline-block; width: 168px; height: 248px; position: relative; ">
+	<a href="/2792597" tabindex="1" style="width: 168px; height: 248px; background-color: rgba(165,153,150,.4)"><img
+	src="https://s3.zerochan.net/240/47/01/2792597.jpg"
+	alt="Iguro Obanai" title="1000x1500 858kB"
+	style="width: 160px; height: 240px; " /></a>
+	<a data-id="2792597" class="fav">4</a>
+	<p>
+	<a href="/Iguro+Obanai">Iguro Obanai</a>
+	<a href="https://static.zerochan.net/Iguro.Obanai.full.2792597.jpg"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Iguro Obanai image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 188px; height: 248px; position: relative; ">
+	<a href="/2799946" tabindex="1" style="width: 188px; height: 248px; background-color: rgba(142,142,148,.4)"><img
+	src="https://s3.zerochan.net/240/46/48/2799946.jpg"
+	alt="Napoléon Bonaparte" title="1200x1600 1781kB"
+	style="width: 180px; height: 240px; " /></a>
+	<a data-id="2799946" class="fav">0</a>
+	<p>
+	<a href="/Napol%C3%A9on+Bonaparte">Napoléon Bonaparte</a>
+	<a href="https://static.zerochan.net/Napol%C3%A9on.Bonaparte.full.2799946.png"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Napoléon Bonaparte image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 143px; height: 248px; position: relative; ">
+	<a href="/2795767" tabindex="1" style="width: 143px; height: 248px; background-color: rgba(211,207,206,.4)"><img
+	src="https://s3.zerochan.net/240/17/15/2795767.jpg"
+	alt="Norman (Yakusoku no Neverland)" title="1080x1920 1096kB"
+	style="width: 135px; height: 240px; " /></a>
+	<a data-id="2795767" class="fav">5</a>
+	<p>
+	<a href="/Norman+%28Yakusoku+no+Neverland%29">Norman (Yakusoku no Neverland)</a>
+	<a href="https://static.zerochan.net/Norman.%28Yakusoku.no.Neverland%29.full.2795767.jpg"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Norman (Yakusoku no Neverland) image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 188px; height: 248px; position: relative; ">
+	<a href="/2792726" tabindex="1" style="width: 188px; height: 248px; background-color: rgba(141,136,176,.4)"><img
+	src="https://s3.zerochan.net/240/26/04/2792726.jpg"
+	alt="Kochou Shinobu" title="600x800 695kB"
+	style="width: 180px; height: 240px; " /></a>
+	<a data-id="2792726" class="fav">9</a>
+	<p>
+	<a href="/Kochou+Shinobu">Kochou Shinobu</a>
+	<a href="https://static.zerochan.net/Kochou.Shinobu.full.2792726.png"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Kochou Shinobu image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 248px; height: 188px; position: relative; ">
+	<a href="/2795472" tabindex="1" style="width: 248px; height: 188px; background-color: rgba(207,198,198,.4)"><img
+	src="https://s3.zerochan.net/240/22/09/2795472.jpg"
+	alt="Agatsuma Zenitsu" title="1200x900 603kB"
+	style="width: 240px; height: 180px; " /></a>
+	<a data-id="2795472" class="fav">5</a>
+	<p>
+	<a href="/Agatsuma+Zenitsu">Agatsuma Zenitsu</a>
+	<a href="https://static.zerochan.net/Agatsuma.Zenitsu.full.2795472.png"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Agatsuma Zenitsu image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 168px; height: 248px; position: relative; ">
+	<a href="/2796868" tabindex="1" style="width: 168px; height: 248px; background-color: rgba(41,36,36,.4)"><img
+	src="https://s3.zerochan.net/240/18/37/2796868.jpg"
+	alt="Tohsaka Rin" title="4000x6000 3624kB"
+	style="width: 160px; height: 240px; " /></a>
+	<a data-id="2796868" class="fav">4</a>
+	<p>
+	<a href="/Tohsaka+Rin">Tohsaka Rin</a>
+	<a href="https://static.zerochan.net/Tohsaka.Rin.full.2796868.png"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Tohsaka Rin image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 248px; height: 143px; position: relative; ">
+	<a href="/2790796" tabindex="1" style="width: 248px; height: 143px; background-color: rgba(117,139,149,.4)"><img
+	src="https://s3.zerochan.net/240/46/15/2790796.jpg"
+	alt="Symphogear XD Unlimited" title="1920x1080 1903kB"
+	style="width: 240px; height: 135px; " /></a>
+	<a data-id="2790796" class="fav">4</a>
+	<p>
+	<a href="/Symphogear+XD+Unlimited">Symphogear XD Unlimited</a>
+	<a href="https://static.zerochan.net/Symphogear.XD.Unlimited.full.2790796.png"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Symphogear XD Unlimited image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 248px; height: 248px; position: relative; ">
+	<a href="/2795107" tabindex="1" style="width: 248px; height: 248px; background-color: rgba(185,145,150,.4)"><img
+	src="https://s3.zerochan.net/240/07/02/2795107.jpg"
+	alt="Hakurei Reimu" title="1500x1500 385kB"
+	style="width: 240px; height: 240px; " /></a>
+	<a data-id="2795107" class="fav">8</a>
+	<p>
+	<a href="/Hakurei+Reimu">Hakurei Reimu</a>
+	<a href="https://static.zerochan.net/Hakurei.Reimu.full.2795107.jpg"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Hakurei Reimu image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 248px; height: 248px; position: relative; ">
+	<a href="/2798654" tabindex="1" style="width: 248px; height: 248px; background-color: rgba(119,133,128,.4)"><img
+	src="https://s3.zerochan.net/240/04/23/2798654.jpg"
+	alt="Hoshiguma" title="1500x1500 748kB"
+	style="width: 240px; height: 240px; " /></a>
+	<a data-id="2798654" class="fav">0</a>
+	<p>
+	<a href="/Hoshiguma">Hoshiguma</a>
+	<a href="https://static.zerochan.net/Hoshiguma.full.2798654.jpg"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Hoshiguma image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 248px; height: 143px; position: relative; ">
+	<a href="/2795939" tabindex="1" style="width: 248px; height: 143px; background-color: rgba(157,185,197,.4)"><img
+	src="https://s3.zerochan.net/240/39/18/2795939.jpg"
+	alt="Masunaga Kazuna" title="1280x720 145kB"
+	style="width: 240px; height: 135px; " /></a>
+	<a data-id="2795939" class="fav">1</a>
+	<p>
+	<a href="/Masunaga+Kazuna">Masunaga Kazuna</a>
+	<a href="https://static.zerochan.net/Masunaga.Kazuna.full.2795939.jpg"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Masunaga Kazuna image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 248px; height: 143px; position: relative; ">
+	<a href="/2791600" tabindex="1" style="width: 248px; height: 143px; background-color: rgba(224,197,196,.4)"><img
+	src="https://s3.zerochan.net/240/00/32/2791600.jpg"
+	alt="Jaeger Sixth" title="1920x1080 979kB"
+	style="width: 240px; height: 135px; " /></a>
+	<a data-id="2791600" class="fav">8</a>
+	<p>
+	<a href="/Jaeger+Sixth">Jaeger Sixth</a>
+	<a href="https://static.zerochan.net/Jaeger.Sixth.full.2791600.jpg"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Jaeger Sixth image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 168px; height: 248px; position: relative; ">
+	<a href="/2795636" tabindex="1" style="width: 168px; height: 248px; background-color: rgba(134,96,125,.4)"><img
+	src="https://s3.zerochan.net/240/36/12/2795636.jpg"
+	alt="Lancer (Fate/stay night)" title="800x1200 827kB"
+	style="width: 160px; height: 240px; " /></a>
+	<a data-id="2795636" class="fav">1</a>
+	<p>
+	<a href="/Lancer+%28Fate%2Fstay+night%29">Lancer (Fate/stay night)</a>
+	<a href="https://static.zerochan.net/Lancer.%28Fate.stay.night%29.full.2795636.png"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Lancer (Fate/stay night) image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 248px; height: 188px; position: relative; ">
+	<a href="/2793329" tabindex="1" style="width: 248px; height: 188px; background-color: rgba(179,160,163,.4)"><img
+	src="https://s3.zerochan.net/240/29/16/2793329.jpg"
+	alt="HUGtto! Precure" title="1024x768 784kB"
+	style="width: 240px; height: 180px; " /></a>
+	<a data-id="2793329" class="fav">0</a>
+	<p>
+	<a href="/HUGtto%21+Precure">HUGtto! Precure</a>
+	<a href="https://static.zerochan.net/HUGtto%21.Precure.full.2793329.jpg"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download HUGtto! Precure image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 248px; height: 248px; position: relative; ">
+	<a href="/2793406" tabindex="1" style="width: 248px; height: 248px; background-color: rgba(9,9,9,.4)"><img
+	src="https://s3.zerochan.net/240/06/18/2793406.jpg"
+	alt="Gambino" title="1024x1024 158kB"
+	style="width: 240px; height: 240px; " /></a>
+	<a data-id="2793406" class="fav">1</a>
+	<p>
+	<a href="/Gambino">Gambino</a>
+	<a href="https://static.zerochan.net/Gambino.full.2793406.png"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Gambino image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 188px; height: 248px; position: relative; ">
+	<a href="/2790699" tabindex="1" style="width: 188px; height: 248px; background-color: rgba(97,90,131,.4)"><img
+	src="https://s3.zerochan.net/240/49/13/2790699.jpg"
+	alt="Kaname Madoka" title="768x1024 486kB"
+	style="width: 180px; height: 240px; " /></a>
+	<a data-id="2790699" class="fav">4</a>
+	<p>
+	<a href="/Kaname+Madoka">Kaname Madoka</a>
+	<a href="https://static.zerochan.net/Kaname.Madoka.full.2790699.jpg"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Kaname Madoka image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 248px; height: 188px; position: relative; ">
+	<a href="/2794180" tabindex="1" style="width: 248px; height: 188px; background-color: rgba(213,199,201,.4)"><img
+	src="https://s3.zerochan.net/240/30/33/2794180.jpg"
+	alt="My Hero Academia" title="800x600 346kB"
+	style="width: 240px; height: 180px; " /></a>
+	<a data-id="2794180" class="fav">10</a>
+	<p>
+	<a href="/Boku+no+Hero+Academia">My Hero Academia</a>
+	<a href="https://static.zerochan.net/Boku.no.Hero.Academia.full.2794180.png"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download My Hero Academia image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 248px; height: 143px; position: relative; ">
+	<a href="/2795214" tabindex="1" style="width: 248px; height: 143px; background-color: rgba(76,66,59,.4)"><img
+	src="https://s3.zerochan.net/240/14/04/2795214.jpg"
+	alt="Tate no Yuusha no Nariagari (Mobile Game)" title="1920x1080 387kB"
+	style="width: 240px; height: 135px; " /></a>
+	<a data-id="2795214" class="fav">7</a>
+	<p>
+	<a href="/Tate+no+Yuusha+no+Nariagari+%28Mobile+Game%29">Tate no Yuusha no Nariagari (Mob...</a>
+	<a href="https://static.zerochan.net/Tate.no.Yuusha.no.Nariagari.%28Mobile.Game%29.full.2795214.jpg"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Tate no Yuusha no Nariagari (Mob... image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 248px; height: 168px; position: relative; ">
+	<a href="/2797439" tabindex="1" style="width: 248px; height: 168px; background-color: rgba(225,210,211,.4)"><img
+	src="https://s3.zerochan.net/240/39/48/2797439.jpg"
+	alt="Dunkerque" title="1350x900 138kB"
+	style="width: 240px; height: 160px; " /></a>
+	<a data-id="2797439" class="fav">3</a>
+	<p>
+	<a href="/Dunkerque">Dunkerque</a>
+	<a href="https://static.zerochan.net/Dunkerque.full.2797439.jpg"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Dunkerque image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 248px; height: 143px; position: relative; ">
+	<a href="/2795136" tabindex="1" style="width: 248px; height: 143px; background-color: rgba(147,150,197,.4)"><img
+	src="https://s3.zerochan.net/240/36/02/2795136.jpg"
+	alt="B-Project: Zecchou*Emotion" title="1280x720 166kB"
+	style="width: 240px; height: 135px; " /></a>
+	<a data-id="2795136" class="fav">2</a>
+	<p>
+	<a href="/B-Project%3A+Zecchou%2AEmotion">B-Project: Zecchou*Emotion</a>
+	<a href="https://static.zerochan.net/B-Project%3A.Zecchou%2AEmotion.full.2795136.jpg"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download B-Project: Zecchou*Emotion image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 248px; height: 221px; position: relative; ">
+	<a href="/2794757" tabindex="1" style="width: 248px; height: 221px; background-color: rgba(164,150,149,.4)"><img
+	src="https://s3.zerochan.net/240/07/45/2794757.jpg"
+	alt="Marie (Pokémon)" title="1800x1600 1715kB"
+	style="width: 240px; height: 213px; " /></a>
+	<a data-id="2794757" class="fav">1</a>
+	<p>
+	<a href="/Marie+%28Pok%C3%A9mon%29">Marie (Pokémon)</a>
+	<a href="https://static.zerochan.net/Marie.%28Pok%C3%A9mon%29.full.2794757.png"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Marie (Pokémon) image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 143px; height: 248px; position: relative; ">
+	<a href="/2798982" tabindex="1" style="width: 143px; height: 248px; background-color: rgba(218,229,238,.4)"><img
+	src="https://s3.zerochan.net/240/32/29/2798982.jpg"
+	alt="Arisu Yurika" title="1080x1920 532kB"
+	style="width: 135px; height: 240px; " /></a>
+	<a data-id="2798982" class="fav">1</a>
+	<p>
+	<a href="/Arisu+Yurika">Arisu Yurika</a>
+	<a href="https://static.zerochan.net/Arisu.Yurika.full.2798982.jpg"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Arisu Yurika image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 248px; height: 188px; position: relative; ">
+	<a href="/2790672" tabindex="1" style="width: 248px; height: 188px; background-color: rgba(217,161,92,.4)"><img
+	src="https://s3.zerochan.net/240/22/13/2790672.jpg"
+	alt="Silicobra" title="800x600 742kB"
+	style="width: 240px; height: 180px; " /></a>
+	<a data-id="2790672" class="fav">2</a>
+	<p>
+	<a href="/Silicobra">Silicobra</a>
+	<a href="https://static.zerochan.net/Silicobra.full.2790672.png"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Silicobra image"></a>
+	</p>
+	</div>
+</li>
+<li class="compact   ">
+	<div style="display: inline-block; width: 168px; height: 248px; position: relative; ">
+	<a href="/2798152" tabindex="1" style="width: 168px; height: 248px; background-color: rgba(179,187,212,.4)"><img
+	src="https://s3.zerochan.net/240/02/13/2798152.jpg"
+	alt="Hatsune Miku" title="3000x4500 9695kB"
+	style="width: 160px; height: 240px; " /></a>
+	<a data-id="2798152" class="fav">5</a>
+	<p>
+	<a href="/Hatsune+Miku">Hatsune Miku</a>
+	<a href="https://static.zerochan.net/Hatsune.Miku.full.2798152.png"><img src="https://static.zerochan.net/download.png" style="width: 12px; height: 12px; box-shadow: none; border: none; position: relative; top: 3px; padding: 0; opacity: .3" alt="download Hatsune Miku image"></a>
+	</p>
+	</div>
+</li>
+</ul><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {"@type": ["ListItem","ImageObject"], "position": "1", "name": "Iguro Obanai", "url": "https://static.zerochan.net/Iguro.Obanai.full.2792597.jpg", "thumbnailUrl": "https://s3.zerochan.net/Iguro.Obanai.240.2792597.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "2", "name": "Napoléon Bonaparte", "url": "https://static.zerochan.net/Napol%C3%A9on.Bonaparte.full.2799946.png", "thumbnailUrl": "https://s3.zerochan.net/Napol%C3%A9on.Bonaparte.240.2799946.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "3", "name": "Norman (Yakusoku no Neverland)", "url": "https://static.zerochan.net/Norman.%28Yakusoku.no.Neverland%29.full.2795767.jpg", "thumbnailUrl": "https://s3.zerochan.net/Norman.%28Yakusoku.no.Neverland%29.240.2795767.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "4", "name": "Kochou Shinobu", "url": "https://static.zerochan.net/Kochou.Shinobu.full.2792726.png", "thumbnailUrl": "https://s3.zerochan.net/Kochou.Shinobu.240.2792726.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "5", "name": "Agatsuma Zenitsu", "url": "https://static.zerochan.net/Agatsuma.Zenitsu.full.2795472.png", "thumbnailUrl": "https://s3.zerochan.net/Agatsuma.Zenitsu.240.2795472.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "6", "name": "Tohsaka Rin", "url": "https://static.zerochan.net/Tohsaka.Rin.full.2796868.png", "thumbnailUrl": "https://s3.zerochan.net/Tohsaka.Rin.240.2796868.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "7", "name": "Symphogear XD Unlimited", "url": "https://static.zerochan.net/Symphogear.XD.Unlimited.full.2790796.png", "thumbnailUrl": "https://s3.zerochan.net/Symphogear.XD.Unlimited.240.2790796.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "8", "name": "Hakurei Reimu", "url": "https://static.zerochan.net/Hakurei.Reimu.full.2795107.jpg", "thumbnailUrl": "https://s3.zerochan.net/Hakurei.Reimu.240.2795107.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "9", "name": "Hoshiguma", "url": "https://static.zerochan.net/Hoshiguma.full.2798654.jpg", "thumbnailUrl": "https://s3.zerochan.net/Hoshiguma.240.2798654.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "10", "name": "Masunaga Kazuna", "url": "https://static.zerochan.net/Masunaga.Kazuna.full.2795939.jpg", "thumbnailUrl": "https://s3.zerochan.net/Masunaga.Kazuna.240.2795939.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "11", "name": "Jaeger Sixth", "url": "https://static.zerochan.net/Jaeger.Sixth.full.2791600.jpg", "thumbnailUrl": "https://s3.zerochan.net/Jaeger.Sixth.240.2791600.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "12", "name": "Lancer (Fate/stay night)", "url": "https://static.zerochan.net/Lancer.%28Fate.stay.night%29.full.2795636.png", "thumbnailUrl": "https://s3.zerochan.net/Lancer.%28Fate.stay.night%29.240.2795636.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "13", "name": "HUGtto! Precure", "url": "https://static.zerochan.net/HUGtto%21.Precure.full.2793329.jpg", "thumbnailUrl": "https://s3.zerochan.net/HUGtto%21.Precure.240.2793329.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "14", "name": "Gambino", "url": "https://static.zerochan.net/Gambino.full.2793406.png", "thumbnailUrl": "https://s3.zerochan.net/Gambino.240.2793406.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "15", "name": "Kaname Madoka", "url": "https://static.zerochan.net/Kaname.Madoka.full.2790699.jpg", "thumbnailUrl": "https://s3.zerochan.net/Kaname.Madoka.240.2790699.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "16", "name": "Boku no Hero Academia", "url": "https://static.zerochan.net/Boku.no.Hero.Academia.full.2794180.png", "thumbnailUrl": "https://s3.zerochan.net/Boku.no.Hero.Academia.240.2794180.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "17", "name": "Tate no Yuusha no Nariagari (Mobile Game)", "url": "https://static.zerochan.net/Tate.no.Yuusha.no.Nariagari.%28Mobile.Game%29.full.2795214.jpg", "thumbnailUrl": "https://s3.zerochan.net/Tate.no.Yuusha.no.Nariagari.%28Mobile.Game%29.240.2795214.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "18", "name": "Dunkerque", "url": "https://static.zerochan.net/Dunkerque.full.2797439.jpg", "thumbnailUrl": "https://s3.zerochan.net/Dunkerque.240.2797439.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "19", "name": "B-Project: Zecchou*Emotion", "url": "https://static.zerochan.net/B-Project%3A.Zecchou%2AEmotion.full.2795136.jpg", "thumbnailUrl": "https://s3.zerochan.net/B-Project%3A.Zecchou%2AEmotion.240.2795136.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "20", "name": "Marie (Pokémon)", "url": "https://static.zerochan.net/Marie.%28Pok%C3%A9mon%29.full.2794757.png", "thumbnailUrl": "https://s3.zerochan.net/Marie.%28Pok%C3%A9mon%29.240.2794757.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "21", "name": "Saber (Fate/Prototype)", "url": "https://static.zerochan.net/Saber.%28Fate.Prototype%29.full.2792330.jpg", "thumbnailUrl": "https://s3.zerochan.net/Saber.%28Fate.Prototype%29.240.2792330.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "22", "name": "Arisu Yurika", "url": "https://static.zerochan.net/Arisu.Yurika.full.2798982.jpg", "thumbnailUrl": "https://s3.zerochan.net/Arisu.Yurika.240.2798982.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "23", "name": "Silicobra", "url": "https://static.zerochan.net/Silicobra.full.2790672.png", "thumbnailUrl": "https://s3.zerochan.net/Silicobra.240.2790672.jpg"},
+    {"@type": ["ListItem","ImageObject"], "position": "24", "name": "Hatsune Miku", "url": "https://static.zerochan.net/Hatsune.Miku.full.2798152.png", "thumbnailUrl": "https://s3.zerochan.net/Hatsune.Miku.240.2798152.jpg"}  ]
+}
+</script>
+<p class="pagination"><a href="?s=random">Random</a></p></div><div id="menu"><p style="text-align: center; ">
+	<img src="https://s1.zerochan.net/Wallpaper.600.3118945.jpg"
+	style="width: 300px; height: 188px; border: 1px solid #000; max-width: 80%;" alt="Wallpaper" />
+</p>
+
+
+
+<h2>Wallpaper</h2>
+
+
+<p>
+<ul id="tags" class="tags">	<li class="meta"><img src="https://static.zerochan.net/icons/meta.svg"><a href="/Sources" title="Added by ">Sources</a></li></ul></p>
+
+
+<div id="description" class="bb" style="max-height: 600px; overflow: hidden; position: relative; line-height: 1.4em; clear: left; ">
+	<div style="height: 30px; float: right; ">
+	<div style=""><iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.zerochan.net%2FWallpaper&amp;layout=button_count&amp;show_faces=false&amp;width=80&amp;action=like&amp;colorscheme=light&amp;height=21"
+		scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px; position: relative; top: 4px; margin-left: 5px; " allowTransparency="true"></iframe></div>
+	</div>
+	<p>Desktop, Widescreen and Mobile Wallpapers suitable as background image.<br />
+<br />
+<span style="font-weight: bold">※Please do NOT tag this with <a href="/CG+Art">CG Art</a> tag!</span><br />
+<br />
+◆ <span style="font-weight: bold">Resolutions for office papers in pixels 300dpi</span><br />
+▷ A4: <a href="/2480%C3%973508">2480×3508</a> / <a href="/3508%C3%972480">3508×2480</a><br />
+▷ A5: <a href="/1748%C3%972480">1748×2480</a> / <a href="/2480%C3%971748">2480×1748</a><br />
+▷ A6: <a href="/1240%C3%971748">1240×1748</a> / <a href="/1748%C3%971240">1748×1240</a><br />
+<br />
+<span style="font-weight: bold">◆ See Also</span><br />
+▷ <a href="/Aspect+Ratio">Aspect Ratio</a><br />
+▷ <a href="/Mobile+Wallpaper">Mobile Wallpaper</a><br />
+▷ <a href="/Banner+%28Source%29">Banner (Source)</a></p>
+</div>
+
+
+
+
+<h2>Advertisements</h2>
+<div style="padding: 5px; ">
+<style>
+.ZEROCHAN_MOINSBD_SIDEBAR { width: 320px; height: 50px; }
+@media(min-width: 500px) { .ZEROCHAN_MOINSBD_SIDEBAR { width: 300px; height: 250px; } }
+@media(min-width: 800px) { .ZEROCHAN_MOINSBD_SIDEBAR { width: 300px; height: 600px; } }
+</style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3000346950361353" crossorigin="anonymous"></script>
+<!-- ZEROCHAN_MOINSBD_SIDEBAR -->
+<ins class="adsbygoogle ZEROCHAN_MOINSBD_SIDEBAR"
+   style="display:block"
+   data-ad-client="ca-pub-3000346950361353"
+   data-ad-slot="5381415589"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({overlays: {bottom: true}});
+</script></div>
+
+
+<h2>Also see</h2>
+<ul class="tags">
+</ul>
+
+<div id="aliases">
+<h2>Aliases</h2>
+<ul style="max-height: 600px; overflow-y: auto; ">
+	<li class="visible">
+		<span data-type="alternative" data-value="Source Wallpaper">Source Wallpaper</span>
+	</li>
+	<li class="visible">
+		<span data-type="abbreviation" data-value="Wp">Wp</span>
+	</li>
+	<li class="visible">
+		<span data-type="alternative" data-value="바탕 화면">바탕 화면</span>
+	</li>
+	<li class="visible">
+		<span data-type="alternative" data-value="바탕화면">바탕화면</span>
+	</li>
+	<li class="visible">
+		<span data-type="alternative" data-value="월페이퍼">월페이퍼</span>
+	</li>
+</ul>
+</div>
+</div>
+
+<div id="footer">
+<form id="language-form" action="/language" method="get">
+<input type="hidden" name="url" value="/Wallpaper?s=random" />
+<select name="language">
+	<option value="de" >Deutsch</option>
+	<option value="en" selected="selected">English</option>
+	<option value="es" >Espa&ntilde;ol</option>
+	<option value="fr" >Fran&ccedil;ais</option>
+	<option value="it" >Italiano</option>
+	<option value="pl" >Polski</option>
+	<option value="ru" >&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</option>
+	<option value="ko" >&#xD55C;&#xAD6D;&#xC5B4;</option>
+</select>
+</form>
+<!--<a href="https://www.patreon.com/bePatron?u=6546652" rel="nofollow" style="float: left;"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" style="margin: 10px; height: 30px;  "></a>-->
+<p>&copy; 2022 Zerochan Anime Images. contact@zerochan.net
+	<a href="/about">About</a> |
+	<a href="/privacy">Privacy</a> |
+	<a href="/api">API</a> |
+	<a href="https://kpop.asiachan.com/" rel="nofollow">KPOP Image Board</a>
+</p>
+<ul id="footer-socials">
+	<li><a rel="nofollow" target="_blank" href="https://discord.gg/HkGgX6Qs3N"><img src="https://s1.zerochan.net/icons/discord2.png" alt="Discord"><span>Discord</span></a></li>
+	<li><a rel="nofollow" target="_blank" href="https://twitter.com/ZerochanAnime"><img src="https://s1.zerochan.net/icons/twitter.svg" alt="Twitter"><span>Twitter</span></a></li>
+	<li><a rel="nofollow" target="_blank" href="https://www.pinterest.com/ZerochanBot/"><img src="https://s1.zerochan.net/icons/pinterest.svg" alt="Pinterest"><span>Pinterest</span></a></li>
+
+</ul>
+
+
+</div>
+</div>
+</div>
+<div id="loader"></div>
+<a id="mode-switch"></a>
+<script src="https://s1.zerochan.net/jquery-1.7.min.js?2"></script>
+<script src="https://s1.zerochan.net/jquery.autocomplete.js?4"></script>
+<script src="https://s1.zerochan.net/lite.js?35"></script>
+<script async defer src="https://assets.pinterest.com/js/pinit.js"></script>
+<script>
+
+/* <![CDATA[ */
+
+$('#tag2').autocomplete('/suggest', {
+	scrollHeight: 600,
+});
+function combine() {
+	if ($('#tag2').val()) {
+		top.location = '/Wallpaper,' + encodeURIComponent($('#tag2').val());
+	}
+	return false;
+}
+$('#browsing-switches').change(function() {
+	v = $(this).val();
+	if (v != 'normal') {
+		window.location = '?' + v;
+		return;
+	}
+	window.location = '?p=1';
+});
+
+		$('#copy-link').click(function() {
+			var name = $('h1 span').text();
+			console.log(name);
+			navigator.clipboard.writeText(name);
+			note = $('<li style="height: 16px;">' + name + ' copied to clipboard</li>').fadeIn().delay(2000).fadeOut();
+			$('#notifications').append(note);
+		});
+	
+$('#open-filters').click(function(e) {
+	e.preventDefault();
+	$('#browse-filters > span').fadeIn(200);
+	$('#open-filters').hide();
+});
+
+
+// change alias type
+$('#alias-form select').change(function(e) {
+	var url = $('#alias-form form').attr('action');
+	e.preventDefault();
+	console.log(url);
+	$.get(url, $('#alias-form form').serialize() + '&ajax=1', function(html) {
+		$('#alias-form').insertAfter('#aliases');
+		$('#aliases ul').html(html);
+	});
+});
+// add form to selected alias
+var aliasForm = $('#alias-form');
+$('#aliases ul').on('click', 'li span', function(e) {
+	console.log(e.target);
+	var alias = $(e.target).attr('data-value');
+	$('#alias-form input[name=alias]').val(alias);
+	$('#alias-form a.admin').attr('data-alt', alias);
+	$('#alias-form select').val($(e.target).attr('data-type'));
+	//$('#alias-form #switch-primary').val("Set '" + alias + "' as Primary Name");
+	$(e.target).parent().append(aliasForm);
+	aliasForm.show();
+});
+// delete alias
+$('#alias-form a.admin').click(function(e) {
+	e.preventDefault();
+	if (!confirm('This alias has never been the primary name for this tag')) {
+		return;
+	}
+	var alt = $(e.target).attr('data-alt');
+	var li = $(e.target).parent().parent();
+	$.get('/delalt?alt=' + encodeURIComponent(alt) + '&ajax=1', function(e) {
+		$('#alias-form').insertAfter('#aliases');
+		li.slideUp(500).remove();
+	});
+});
+// switch name with alias
+$('#switch-primary').click(function(e) {
+	var alias = $('#alias-form input[name=alias]').val();
+	if (!confirm("Are you sure you want to set '" + alias + "' as primary name?") && alert('Do not remove the switched alias so people can still find the tag using the old name. ')) {
+		e.preventDefault();
+	}
+});
+
+
+
+/* ]]> */
+</script>
+</body></html>

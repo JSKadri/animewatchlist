@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <!-- Links all css formatting -->
+    <link href="/animewatchlist/css/all.css" rel="stylesheet"> <!-- Font Awsome -->
+    <link href="/animewatchlist/css/genericStyle.css" rel="stylesheet">
+    <link href="/animewatchlist/css/loginStyle.css" rel="stylesheet">
+    <meta name="author" content="Jawad Kadri">
+    <meta name="description" content="Login Page">
+    <title>Sign Up | AnimeWatchList</title>
+</head>
+
+<!-- 3-Step Process
+    1. Email
+        Ask if the user would like to opt-into recieving email notifcations
+        Agree & Continue Button
+    2. -->
+
+<body>
+    <header>
+        <img src="/animewatchlist/images/AWL Logo.png" alt="AWL" class="logo">
+    </header>
+ 
+    <div class="form-body">
+        <h1 class="form-title">Login</h1>
+         <form id="form">
+             <label for="uname">Username</label>
+             <input type="text" id="uname" name="username" placeholder="Your username name here...">
+ 
+             <label for="password">Password</label>
+             <input type="password" id="password" name="password" placeholder="Your password here..."/>
+
+             <input id="checkLogin" type="submit" value="Login"/>
+            
+             <p style="text-align: center;">Or <a href="sign-up.html">Sign Up</a></p>
+        </form>
+    </div>
+
+    <!-- JQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    
+    <!-- Custom Scripts -->
+    <script src="/animewatchlist/js/forms.js"></script>
+
+</body>
+</html>

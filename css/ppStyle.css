@@ -1,0 +1,16 @@
+/*LEGAL Page: privacy-policy */
+.block {
+    border: 0px solid red;
+    color: white;
+   /* line-height: 15px;*/
+   margin-top: 5%;
+   margin-left: auto;
+   margin-right: auto;
+   width:  60vw;
+}
+
+.pp-line {
+    margin-top: 1.2em;
+    margin-bottom: 3em;
+    width: 100%;
+}
