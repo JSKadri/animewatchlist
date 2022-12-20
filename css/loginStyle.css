@@ -7,6 +7,7 @@
     font-size: 40px;
     padding: 20px;
     padding-top: 0%;
+    padding-bottom: 5%;
     box-shadow: 0px 0px 5px rgb(255, 255, 255);
 }
 
@@ -108,5 +109,17 @@ input[type=submit]:hover { background-color: rgb(74, 146, 248);; }
     .form-body {
         margin-left: 100px;
         margin-right: 100px;
+    }
+}
+
+@media only screen and (max-height: 915px) {
+    .footer {
+        height: 50px;
+    }
+}
+
+@media only screen and (max-height: 815px) {
+    .footer {
+        height: 0px;
     }
 }
