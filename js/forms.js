@@ -1,75 +1,3 @@
-/* We check for invalid inputs after submit is pressed
-$('#checkSubmit').click(function(){
-    /* Setup Initail Varibles 
-    .value will get the value of the id
-    var form = document.getElementById("form");
-    var fname = document.getElementById('fname');
-    var lname = document.getElementById('lname');
-    var options = document.getElementById('options');
-    var OtherTextBox = document.getElementById('learn');
-    var email = document.getElementById('email');
-    var number = document.getElementById('pnumber');
-    var nonValid = false;
-
-    /* Reset color back to default
-    fname.style.borderColor="#ccc";
-    lname.style.borderColor="#ccc";
-    email.style.borderColor="#ccc";
-    number.style.borderColor="#ccc";
-    options.style.borderColor="#ccc";
-    OtherTextBox.style.borderColor="#ccc";
-
-    /* Make sure the user selected how they learned about us
-    if(options.value == "-") {
-        options.style.borderColor="red";
-        nonValid = true;
-    } else if(options.value == "other") {
-        if(OtherTextBox.value == "") {
-            OtherTextBox.style.borderColor="red";
-            nonValid = true;
-        }
-    }
-
-    /* Check for invalid inputs for the other textboxes 
-    if(fname.value == "") {
-        fname.style.borderColor="red";
-        nonValid = true;
-    }
-    if(lname.value == "") {
-        lname.style.borderColor="red";
-        nonValid = true;
-    }
-    if(email.value == "") {
-        email.style.borderColor="red";
-        nonValid = true;
-    } 
-    /* Doesn't catch all but some simple invalid emails using REGEX
-    else if(!String(email.value).toLocaleLowerCase().match(/^[^\s@]+@[^\s@]+\.[^\s@]+$/)) {
-        email.style.borderColor="red";
-        nonValid = true;
-    }
-    if(number.value == "") {
-        number.style.borderColor="red";
-        nonValid = true;
-    } 
-    /* Doesn't catch all but most invalid phone numbers using REGEX
-    else if(!number.value.match(/^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$/im)) 
-    {
-        number.style.borderColor="red";
-        nonValid = true;
-    }
-
-    /* When an invalid input is detected to reload the page (Make the user fix!)
-   if(nonValid == true) {
-       nonValid = false;
-       alert("Missing or Invalid Field. Please fill or fix the missing content.");
-       function handleForm(event) { event.preventDefault(); } 
-       form.addEventListener('submit', handleForm);
-   } else {
-    alert("Success!"); // --> This should be changed when we setup server side
-   }
-});
-
 /* 
 Valid Numbers using REGEX:
 (123) 456-7890
@@ -175,11 +103,18 @@ $('#checkRegister').click(function(){
 
     /* When an invalid input is detected to reload the page (Make the user fix!) */
    if(nonValid == true) {
-    nonValid = false;
-    alert("Missing or Invalid Field. Please fill or fix the missing content.");
-    function handleForm(event) { event.preventDefault(); } 
-    form.addEventListener('submit', handleForm);
+        nonValid = false;
+        alert("Missing or Invalid Field. Please fill or fix the missing content.");
+        function handleForm(event) { event.preventDefault(); } 
+        form.addEventListener('submit', handleForm);
+    } else if (letter.classList.contains('invalid') || capital.classList.contains('invalid') || number.classList.contains('invalid') || length.classList.contains('invalid') || match.classList.contains('invalid') || special.classList.contains('invalid'))
+    {
+        alert("Invalid Password. Please fix the missing content.");
+        function handleForm(event) { event.preventDefault(); }
+        form.addEventListener('submit', handleForm);
+        password.style.borderColor="red";
+        confirmPassword.style.borderColor="red";
     } else {
-    alert("Success!"); // --> This should be changed when we setup server side
+        alert("Success!"); // --> This should be changed when we setup server side
     }
 });
