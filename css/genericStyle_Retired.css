@@ -1,0 +1,95 @@
+/*
+ * genericStyle holds the css format for a template website that follows the format for the site
+ * It also includes the required css for the header and footer
+ */
+html, body {
+    border: 0px solid rgb(255, 0, 0);
+    height: 100%;
+    margin: 0;
+    font-family: 'Segoe UI';
+    background-color: rgb(11, 21, 35);
+}
+
+/* Header */
+header {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    height: 50px;
+    background-color: rgb(11, 21, 35);
+    border-style: none none solid none;
+    border-width: 5px;
+    animation: fadingBorder 10s ease infinite;
+}
+@keyframes fadingBorder{
+    0%		{ border-color: #326bbca4;}
+    60%		{ border-color: #589cfc;}
+    100%	{ border-color: #326bbca4;}
+}
+/*
+@keyframes fadingBorder{
+    0%		{ border-color: #326bbca4;}
+    25%		{ border-color: #32bc4295;}
+    50%		{ border-color: #bc3287d2;}
+    75%		{ border-color: #28e217;}
+    100%	{ border-color: #006aff;}
+}*/
+
+.logo {
+    border: 0px solid blue;
+    position: absolute;
+    max-width: 300px;
+    max-height: 200px;
+    top: 0;
+    left: 0;
+
+    margin-top: -45px;
+    margin-left: -30px;
+}
+
+/* Footer */
+.footer {
+    border: 1px solid red;
+    bottom: 0;
+    width: 100%;
+    height: 150px;
+
+    background-color: rgba(7, 4, 20, 0.56);
+    color: rgba(255, 255, 255, 0.463);
+
+    text-align: center;
+    font-size: 13px;
+}
+
+.logo-footer {
+    border: 0px solid rgb(30, 255, 0);
+    max-width: 300px;
+    max-height: 110px;
+    margin-top: -40px;
+    margin-bottom: -17px;
+    margin-left: -10px;
+}
+
+.navbar {
+    border: 0px solid red;
+    height: 60px;
+    width: 285px;
+    margin: auto;
+}
+
+.navbar a {
+    border: 0px solid red;
+    float: left;
+    display: block;
+    color: rgba(255, 255, 255, 0.463);
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition-duration: 300ms;
+}
+
+/* Change the color of links on hover */
+.navbar a:hover {
+    color: rgb(255, 255, 255);
+}

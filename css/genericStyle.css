@@ -1,82 +1,68 @@
-/*
- * genericStyle holds the css format for a template website that follows the format for the site
- * It also includes the required css for the header and footer
- */
-html, body {
-    border: 0px solid rgb(255, 0, 0);
-    height: 100%;
-    margin: 0;
+.Body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.Content { flex: 1; }
+  
+body { 
+    margin: 0; 
     font-family: 'Segoe UI';
-    background-color: rgb(11, 21, 35);
 }
 
 /* Header */
-header {
-    width: 100%;
-    max-width: 100%;
-    margin: 0;
-    height: 50px;
-    background-color: rgb(11, 21, 35);
-    border-style: none none solid none;
-    border-color: rgba(50, 107, 188, 0.644);
-    border-width: 5px;
-}
+    header { 
+        background-color: rgb(11, 21, 35);
+        border-style: none none solid none;
+        border-width: 5px;
+        animation: fadingBorder 10s ease infinite;
+    }
+    @keyframes fadingBorder{
+        0%		{ border-color: #326bbca4;}
+        60%		{ border-color: #589cfc;}
+        100%	{ border-color: #326bbca4;}
+    }
+    .crop{
+        border: red solid 0px;
+        width: 230px;
+        height: 70px;
+        overflow: hidden;
+    }
+    .crop img {
+        width: 300px;
+        height: 200px;
+        margin: -77px 0 0 -35px;
+    }
 
-.logo {
-    border: 0px solid blue;
-    position: absolute;
-    max-width: 300px;
-    max-height: 200px;
-    top: 0;
-    left: 0;
 
-    margin-top: -45px;
-    margin-left: -30px;
-}
+/* The main content */
+    main { 
+        background-color: rgb(11, 21, 35);
+    }
 
 /* Footer */
-.footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 150px;
+    footer { 
+        background-color: rgb(10, 7, 21);
+        color: rgba(255, 255, 255, 0.463);
 
-    background-color: rgba(7, 4, 20, 0.56);
-    color: rgba(255, 255, 255, 0.463);
-
-    text-align: center;
-    font-size: 13px;
-}
-
-.logo-footer {
-    border: 0px solid rgb(30, 255, 0);
-    max-width: 300px;
-    max-height: 110px;
-    margin-top: -40px;
-    margin-bottom: -17px;
-    margin-left: -10px;
-}
-
-.navbar {
-    border: 0px solid red;
-    height: 60px;
-    width: 285px;
-    margin: auto;
-}
-
-.navbar a {
-    border: 0px solid red;
-    float: left;
-    display: block;
-    color: rgba(255, 255, 255, 0.463);
-    display: block;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    transition-duration: 300ms;
-}
-
-/* Change the color of links on hover */
-.navbar a:hover {
-    color: rgb(255, 255, 255);
-}
+        height: 110px;
+        text-align: center;
+        bottom: 0;
+    }
+    .logo-footer {
+        border: 0px solid rgb(30, 255, 0);
+        max-width: 300px;
+        max-height: 110px;
+        margin-top: -40px;
+        margin-bottom: -20px;
+    }
+    .navbar {
+        padding-bottom: 5px;
+    }
+    .navbar a {
+        color: rgb(255, 255, 255);
+    }
+    /* Change the color of links on hover */
+    .navbar a:hover {
+        color: #589cfc;
+    }

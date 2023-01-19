@@ -6,7 +6,8 @@
         <!-- Custom Scripts -->
         <script src="/js/loadHeadFoot.js"></script>
         <!-- CSS Formatting -->
-        <link href="/css/all.css" rel="stylesheet"> <!-- Font Awsome -->
+        <link href="/css/all.css" rel="stylesheet"> <!-- Font Awsome 
+        <link href="/css/genericStyle.css" rel="stylesheet">-->
         <link href="/css/genericStyle.css" rel="stylesheet">
         <link href="/css/formStyle.css" rel="stylesheet">
         <!-- Meta Data -->
@@ -15,9 +16,10 @@
         <title>Login | AnimeWatchList</title>
     </head>
 
-    <body>
-        <div id ="header"></div>
+    <body class="Body">
+        <div id="header"></div>
 
+        <main class="Content">
             <div class="form-body">
                 <h1 class="form-title">Login</h1>
                 <form id="form">
@@ -28,12 +30,12 @@
                     <input type="password" id="password" name="password" placeholder="Your password here..."/>
 
                     <input id="checkLogin" type="submit" value="Login"/>
-                    
+                    <br><br>
                     <p style="text-align: center;">Or <a href="sign-up.html">Sign Up</a></p>
                 </form>
             </div>
-
-        <div id ="footer"></div>
+        </main>
+        <div id="footer"></div>   
     </body>
 
     <!-- Form Java Script -->

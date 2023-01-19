@@ -12,11 +12,13 @@ var special = document.getElementById("special");
 // When the user clicks on the password field, show the message box
 myInput.onfocus = function() {
     document.getElementById("message").style.display = "block";
+    window.scrollTo(0, document.body.scrollHeight/2/2);
 }
 myInput2.onfocus = function() {
     document.getElementById("message").style.display = "block";
+    window.scrollTo(0, document.body.scrollHeight/2/2);
 }
-    
+
 // When the user clicks outside of the password field, hide the message box
 myInput.onblur = function() {
     document.getElementById("message").style.display = "none";
